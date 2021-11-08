@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\maria\OneDrive\Desktop\OpenGLRoot\projectuno\projectuno\main.cpp(84,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\maria\OneDrive\Desktop\OpenGLRoot\projectuno\projectuno\main.cpp(85,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  projectuno.vcxproj -> C:\Users\maria\OneDrive\Desktop\OpenGLRoot\projectuno\Debug\projectuno.exe
