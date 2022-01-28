@@ -1,4 +1,0 @@
-﻿  main.cpp
-D:\DEVELOPMENT ENVIRONMENT\VS PROJECTS\repos\HouseTask\HouseTask\src\main.cpp(128,33): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
-D:\DEVELOPMENT ENVIRONMENT\VS PROJECTS\repos\HouseTask\HouseTask\src\main.cpp(143,19): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
-  HouseTask.vcxproj -> D:\DEVELOPMENT ENVIRONMENT\VS PROJECTS\repos\HouseTask\x64\Debug\HouseTask.exe
